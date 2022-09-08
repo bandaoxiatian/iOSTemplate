@@ -1,0 +1,36 @@
+{
+  "name": "MetisFeedback",
+  "version": "0.1.0",
+  "summary": "MetisFeedback",
+  "homepage": "https://wiki.zhenguanyu.com/iOS/Modules",
+  "license": "Private",
+  "authors": {
+    "liulj": "liulj@yuanfudao.com"
+  },
+  "source": {
+    "git": "git@gitlab-ee.zhenguanyu.com:metis-mobile/ios/metis-module-feedback.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Classes/**/*",
+  "resource_bundles": {
+    "MetisFeedback": [
+      "Assets/**/*"
+    ]
+  },
+  "dependencies": {
+    "MetisLego": [
+      "~> 0.1"
+    ],
+    "MetisUI": [
+      "~> 0.1"
+    ],
+    "MetisAccount": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

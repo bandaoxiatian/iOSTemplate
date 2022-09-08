@@ -1,0 +1,12 @@
+---
+cache_addresses:
+- http://10.1.125.142:8080/cache
+primary_repo: git@github.com:bandaoxiatian/iOSTemplate.git
+mode: producer
+primary_branch: main
+xccc_file: "../.rc/xccc"
+remote_commit_file: "../.rc/arc.rc"
+prettify_meta_files: false
+disable_certificate_verification: false
+custom_rewrite_envs:
+- XCRC_COOCAPODS_ROOT

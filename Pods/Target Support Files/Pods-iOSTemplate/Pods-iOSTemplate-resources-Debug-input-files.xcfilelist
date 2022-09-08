@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-iOSTemplate/Pods-iOSTemplate-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/MetisAccount/MetisAccountResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/MetisFeedback/MetisFeedback.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/MetisUI/MetisUI.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/PhantomReusableView/PhantomReusableView.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/VGOUIKit/VGOUIKit.bundle
